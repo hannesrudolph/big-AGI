@@ -42,4 +42,6 @@ next-env.d.ts
 
 # other
 .idea/
-SSL
+
+# Ingore k8s/env-secret.yaml
+./k8s/env-secret.yaml
